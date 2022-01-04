@@ -1,0 +1,3 @@
+name: Chain_Type
+version: '${project.version}'
+main: www.yunmouren.top.chain_type.Chain_Type
